@@ -29,7 +29,7 @@ can use the library as you would like to use the sort compile your source file w
 ### Usage
 
 ```
-write use command here
+compile your source file with the given source file sorting.c no needed flags
 ```
 
 ### Contributing
